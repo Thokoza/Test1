@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<Users>
+  <User>
+    <Name>Janey </Name>
+    <Surname>Doe</Surname>
+    <CellNo>0824567853</CellNo>
+  </User>
+  <User>
+    <Name>Thokoza</Name>
+    <Surname>Nzuza</Surname>
+    <CellNumber>0662949091</CellNumber>
+    <CellNo>0663412541</CellNo>
+  </User>
+  <User>
+    <Name>Test</Name>
+    <Surname>User</Surname>
+    <CellNo>0724568522</CellNo>
+  </User>
+  <User>
+    <Name>NOMSA</Name>
+    <Surname>Smith</Surname>
+    <CellNo>0672584566</CellNo>
+  </User>
+  <User>
+    <Name>Test</Name>
+    <Surname>User</Surname>
+    <CellNo>0734568524</CellNo>
+  </User>
+</Users>
